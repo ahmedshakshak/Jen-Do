@@ -12,7 +12,4 @@ RUN git clone https://github.com/dobromir-hristov/todo-app.git
 RUN cd todo-app \
         && yarn install -y
 #settiing app wokring directory
-WORKDIR /todo-app
-~                                                                                                                            
-~                                                                                                                            
-~                                            
+WORKDIR /todo-app                                        
